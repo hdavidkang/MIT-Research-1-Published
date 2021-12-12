@@ -2,10 +2,12 @@
 
 
 ## 🚀 Motivation
-Small and medium manufacturing enterprises (SMEs) often lack skills and resources required to perform in-house PHM analytics. While cloud-based services provide SMEs the option to outsource PHM analytics in the cloud, a critical limiting factor to such arrangement is the data owner’s unwillingness to share data due to data privacy concerns.
+- Small and medium manufacturing enterprises (SMEs) often lack skills and resources required to perform in-house PHM analytics.
+- Cloud computing services provide SMEs the option to outsource the analytics on cloud, but the data owners' unwillingness to share data from privacy concerns is a critical bottleneck.
 
 ## 🎓 Contribution
-In this study, we showcased how homomorphic encryption can enable a secure PHM outsourcing with high precision for SMEs. We introduced a frequency-based peak detection algorithm (_H-FFT-C_) that generates a machine health diagnosis and prescription report, while keeping the machine data private.
+- In this study, we showcased how homomorphic encryption can enable a secure PHM outsourcing with high precision for SMEs.
+- We introduced a frequency-based peak detection algorithm (_H-FFT-C_) that generates a machine health diagnosis and prescription report, while keeping the machine data private.
 
 ## 🎉 Published!
 Kang et.al, [Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise](https://www.sciencedirect.com/science/article/abs/pii/S0278612521001254), _Journal of Manufacturing Systems_, 2021.
